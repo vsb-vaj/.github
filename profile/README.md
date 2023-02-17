@@ -1,5 +1,5 @@
 # Vývoj aplikací v JavaScriptu (VAJ) - Summer 2023 
-Subjet 460-2077/01
+Subject 460-2077/01
 
 Lectures and Labs: TBD
 
