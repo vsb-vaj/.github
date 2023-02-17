@@ -3,7 +3,7 @@ Subjet 460-2077/01
 
 Lectures and Labs: TBD
 
-Forum for any Q&A https://github.com/vsb-vaj/.github/discussions
+Forum for any Q&A https://github.com/orgs/vsb-vaj/discussions
 
 ## Presentations 
 - 00 Introduction to the subject - Presentation
@@ -28,4 +28,4 @@ You need to hand in the Labs on regular basis. There is 2 weeks deadline after e
 ------------------------
 ## More subject info in [Edison](https://edison.sso.vsb.cz/cz.vsb.edison.edu.study.prepare.web/SubjectVersion.faces?version=460-2077/01&studyPlanId=24376&locale=cs)
 
-If you have any questions feel free to use the onlinen forum for them https://github.com/vsb-vaj/.github/discussions
+If you have any questions feel free to use the onlinen forum for them https://github.com/orgs/vsb-vaj/discussions
