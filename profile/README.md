@@ -6,8 +6,11 @@ Lectures and Labs: St	16:00 - 18:30 POREB113
 Forum for any Q&A https://github.com/orgs/vsb-vaj/discussions
 
 ## Presentations 
-- 00 Introduction to the subject - Presentation
-- TBD
+- Lecture 1
+  - 00 Intro to the subject - [Presentation](https://docs.google.com/presentation/d/1eFw-7veLP28g3YbHQ8DIyiH4PLQuvoJll90YCcsAZYs/edit?usp=sharing)
+  - 01 Introduction to JavaScript - [Presentation](https://docs.google.com/presentation/d/16oO85Xcyt_OBB7VHzw4L6pE1iKqhTSF1iB3nL9wZhA4/edit?usp=sharing)
+  - 02 JavaScript Basic [Presentation](https://docs.google.com/presentation/d/1pN-GbWgMH1tkJH68IlQX1mcNYCtBfgFbx1k1dMMCDtg/edit?usp=sharing)
+  - 03 npm, promise, node [Presentation](https://docs.google.com/presentation/d/1JrufeLjxbBKKjWqnj1l32hcouQ3Hw-8rMIn_zzCTF7U/edit?usp=sharing)
 
 ## Labs
 - 01 TBD
