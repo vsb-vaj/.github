@@ -1,7 +1,7 @@
 # Vývoj aplikací v JavaScriptu (VAJ) - Summer 2023 
 Subject 460-2077/01
 
-Lectures and Labs: TBD
+Lectures and Labs: St	16:00 - 18:30 POREB113	
 
 Forum for any Q&A https://github.com/orgs/vsb-vaj/discussions
 
