@@ -13,7 +13,10 @@ Forum for any Q&A https://github.com/orgs/vsb-vaj/discussions
   - 03 npm, promise, node [Presentation](https://docs.google.com/presentation/d/1JrufeLjxbBKKjWqnj1l32hcouQ3Hw-8rMIn_zzCTF7U/edit?usp=sharing)
 
 ## Labs
-- 01 TBD
+- 01 Basics, npm, node
+  - Assigment <TBD add link>
+  - 5 points for all the tasks specified in README.md
+  - 1 extra point for task-bonus.js
 
 ## Project
 - TBD
