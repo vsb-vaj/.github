@@ -11,12 +11,19 @@ Forum for any Q&A https://github.com/orgs/vsb-vaj/discussions
   - 01 Introduction to JavaScript - [Presentation](https://docs.google.com/presentation/d/16oO85Xcyt_OBB7VHzw4L6pE1iKqhTSF1iB3nL9wZhA4/edit?usp=sharing)
   - 02 JavaScript Basic [Presentation](https://docs.google.com/presentation/d/1pN-GbWgMH1tkJH68IlQX1mcNYCtBfgFbx1k1dMMCDtg/edit?usp=sharing)
   - 03 npm, promise, node [Presentation](https://docs.google.com/presentation/d/1JrufeLjxbBKKjWqnj1l32hcouQ3Hw-8rMIn_zzCTF7U/edit?usp=sharing)
+- Lecture 2 
+  - 04 JS Modules and Debug [Presentation](https://docs.google.com/presentation/d/10fnh2E_yMzPpOHdFu_zEAoh6xYCcm9uN24dWxrOKqBk/edit?usp=sharing)
+  - 05 Express web server [Presentation](https://docs.google.com/presentation/d/1mB5diin7XtzsZhRX_WWgDERf2I1Ifd2b1TfzROAqv2A/edit?usp=sharing)
 
 ## Labs
 - 01 Basics, npm, node
   - Assigment https://classroom.github.com/a/J4EfeOD4
   - 5 points for all the tasks specified in README.md
   - 1 extra point for task-bonus.js
+- 02 JS Modules and Express server 
+  - Assigment TBD 
+  - TBD 
+
 
 ## Project
 - TBD
