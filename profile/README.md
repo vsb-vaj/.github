@@ -21,8 +21,9 @@ Forum for any Q&A https://github.com/orgs/vsb-vaj/discussions
   - 5 points for all the tasks specified in README.md
   - 1 extra point for task-bonus.js
 - 02 JS Modules and Express server 
-  - Assigment TBD 
-  - TBD 
+  - Assigment https://classroom.github.com/a/k2Xxq0u7
+  - 5 points for all the tasks desfined in README.md
+  - 1 extra points for bonus.js
 
 
 ## Project
