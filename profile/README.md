@@ -14,6 +14,8 @@ Forum for any Q&A https://github.com/orgs/vsb-vaj/discussions
 - Lecture 2 
   - 04 JS Modules and Debug [Presentation](https://docs.google.com/presentation/d/10fnh2E_yMzPpOHdFu_zEAoh6xYCcm9uN24dWxrOKqBk/edit?usp=sharing)
   - 05 Express web server [Presentation](https://docs.google.com/presentation/d/1mB5diin7XtzsZhRX_WWgDERf2I1Ifd2b1TfzROAqv2A/edit?usp=sharing)
+- Lecture 3
+  - 06 Data persistance with ORM Layer [Presenetation](https://docs.google.com/presentation/d/1nuWTlY8BxwOylHH8DH9ucmFkoNx4H89UcM-AuIk4CCQ/edit?usp=sharing)
 
 ## Labs
 - 01 Basics, npm, node
@@ -24,7 +26,9 @@ Forum for any Q&A https://github.com/orgs/vsb-vaj/discussions
   - Assigment https://classroom.github.com/a/k2Xxq0u7
   - 5 points for all the tasks desfined in README.md
   - 1 extra points for bonus.js
-
+- 03 ORM Layer - Prisma
+  - Assigment TBD
+  - TBD
 
 ## Project
 - TBD
