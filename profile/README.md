@@ -27,8 +27,8 @@ Forum for any Q&A https://github.com/orgs/vsb-vaj/discussions
   - 5 points for all the tasks desfined in README.md
   - 1 extra points for bonus.js
 - 03 ORM Layer - Prisma
-  - Assigment TBD
-  - TBD
+  - Assigment https://classroom.github.com/a/ngAb75NC
+  - 5 points for all the tasks in README.md
 
 ## Project
 - TBD
