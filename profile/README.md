@@ -33,7 +33,7 @@ Forum for any Q&A https://github.com/orgs/vsb-vaj/discussions
   - Assigment https://classroom.github.com/a/ngAb75NC
   - 5 points for all the tasks in README.md
 - 04 Rest API 
-  - ASsigment TBD
+  - ASsigment https://classroom.github.com/a/VL6N2rIS
   - 5 points for all the tasks in README.md 
 
 ## Project
