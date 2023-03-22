@@ -16,6 +16,9 @@ Forum for any Q&A https://github.com/orgs/vsb-vaj/discussions
   - 05 Express web server [Presentation](https://docs.google.com/presentation/d/1mB5diin7XtzsZhRX_WWgDERf2I1Ifd2b1TfzROAqv2A/edit?usp=sharing)
 - Lecture 3
   - 06 Data persistance with ORM Layer [Presenetation](https://docs.google.com/presentation/d/1nuWTlY8BxwOylHH8DH9ucmFkoNx4H89UcM-AuIk4CCQ/edit?usp=sharing)
+- Lecture 4 
+  - 07 Types of web apps / SPA [Presentation](https://docs.google.com/presentation/d/1gSCpYfGMuE3NtpjqBTJ87mb4QnMZiJTsdPsu9IpXMqw/edit?usp=share_link)
+  - 08 REST API [Presentation]()https://docs.google.com/presentation/d/1qeQc3iHrFmalPH502dZz9VkZff-vRnW5Jqv9fNtQA3M/edit?usp=share_link
 
 ## Labs
 - 01 Basics, npm, node
@@ -29,6 +32,9 @@ Forum for any Q&A https://github.com/orgs/vsb-vaj/discussions
 - 03 ORM Layer - Prisma
   - Assigment https://classroom.github.com/a/ngAb75NC
   - 5 points for all the tasks in README.md
+- 04 Rest API 
+  - ASsigment TBD
+  - 5 points for all the tasks in README.md 
 
 ## Project
 - TBD
