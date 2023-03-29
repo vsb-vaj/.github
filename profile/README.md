@@ -35,9 +35,12 @@ Forum for any Q&A https://github.com/orgs/vsb-vaj/discussions
 - 04 Rest API 
   - ASsigment https://classroom.github.com/a/VL6N2rIS
   - 5 points for all the tasks in README.md 
+- 05 TBD
+  - TBD
 
 ## Project
 - Project [description](https://docs.google.com/document/d/1BMdXLuWrPcqklPcL2jFDviO-JO1jhCTYo7cLxUp_Hd4/edit?usp=sharing)
+- Project assigment repository https://classroom.github.com/a/Q3lm9tWp
 
 ## Subject Evaluation
 You need to hand in the Labs on regular basis. There is 2 weeks deadline after each lab for submitting it (in case you won't finish on the lab). 
