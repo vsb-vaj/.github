@@ -21,6 +21,8 @@ Forum for any Q&A https://github.com/orgs/vsb-vaj/discussions
   - 08 REST API [Presentation](https://docs.google.com/presentation/d/1qeQc3iHrFmalPH502dZz9VkZff-vRnW5Jqv9fNtQA3M/edit?usp=share_link)
 - Lecture 5
   - 09 React Introduction [Presentation](https://docs.google.com/presentation/d/1OWsFsSE-86wMXSi1iKsHxE8bTVBUy8mXi5IL_Qc5OhI/edit?usp=sharing)
+- Lecture 6
+  - 10 React Hooks [Presentation](https://docs.google.com/presentation/d/1flz5IdupvIc2ed5qjdzbZFVyhlhFK7gzpAN4k7XQd1E/edit?usp=sharing)
 
 ## Labs
 - 01 Basics, npm, node
@@ -40,6 +42,9 @@ Forum for any Q&A https://github.com/orgs/vsb-vaj/discussions
 - 05 React - Intro
   - Assignment https://classroom.github.com/a/tFSG8Aha
   - 3 points for all tasks in README.md
+- 06 React - Hooks
+  - Assignment https://classroom.github.com/a/tBtZ9v8f
+  - 4 points for all tasks in README.md (+ 1 bonus point for 2 bonus tasks)
 
 ## Project
 - Project [description](https://docs.google.com/document/d/1BMdXLuWrPcqklPcL2jFDviO-JO1jhCTYo7cLxUp_Hd4/edit?usp=sharing)
