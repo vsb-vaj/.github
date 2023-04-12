@@ -23,6 +23,8 @@ Forum for any Q&A https://github.com/orgs/vsb-vaj/discussions
   - 09 React Introduction [Presentation](https://docs.google.com/presentation/d/1OWsFsSE-86wMXSi1iKsHxE8bTVBUy8mXi5IL_Qc5OhI/edit?usp=sharing)
 - Lecture 6
   - 10 React Hooks [Presentation](https://docs.google.com/presentation/d/1flz5IdupvIc2ed5qjdzbZFVyhlhFK7gzpAN4k7XQd1E/edit?usp=sharing)
+- Lecture 7
+  - 11 React Router [Presentation](https://docs.google.com/presentation/d/1S7Jy52h04gQvjYH9NOQUuOCF-Z6dAkWr119NYt-rLHU/edit?usp=sharing)
 
 ## Labs
 - 01 Basics, npm, node
