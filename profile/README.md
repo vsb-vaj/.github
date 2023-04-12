@@ -45,6 +45,9 @@ Forum for any Q&A https://github.com/orgs/vsb-vaj/discussions
 - 06 React - Hooks
   - Assignment https://classroom.github.com/a/tBtZ9v8f
   - 4 points for all tasks in README.md (+ 1 bonus point for 2 bonus tasks)
+- 07 React - Client side routing
+  - Assignment https://classroom.github.com/a/QzDfxj_L
+  - 4 points for all tasks in README.md
 
 ## Project
 - Project [description](https://docs.google.com/document/d/1BMdXLuWrPcqklPcL2jFDviO-JO1jhCTYo7cLxUp_Hd4/edit?usp=sharing)
