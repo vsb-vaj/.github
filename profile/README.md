@@ -25,6 +25,8 @@ Forum for any Q&A https://github.com/orgs/vsb-vaj/discussions
   - 10 React Hooks [Presentation](https://docs.google.com/presentation/d/1flz5IdupvIc2ed5qjdzbZFVyhlhFK7gzpAN4k7XQd1E/edit?usp=sharing)
 - Lecture 7
   - 11 React Router [Presentation](https://docs.google.com/presentation/d/1S7Jy52h04gQvjYH9NOQUuOCF-Z6dAkWr119NYt-rLHU/edit?usp=sharing)
+- Lecture 8
+  - 12 Material UI [Presentation](https://docs.google.com/presentation/d/1UJfVOvP9rlQAYvmTfY7eD2lZ1gHVW3GDpthUpDM3ijo/edit?usp=sharing)
 
 ## Labs
 - 01 Basics, npm, node
@@ -50,6 +52,9 @@ Forum for any Q&A https://github.com/orgs/vsb-vaj/discussions
 - 07 React - Client side routing
   - Assignment https://classroom.github.com/a/QzDfxj_L
   - 4 points for all tasks in README.md
+- 08 React - Material UI
+  - Assignment https://classroom.github.com/a/Kn46jW7U
+  - 4 points for all tasks in README.md (+1 bonus point)
 
 ## Project
 - Project [description](https://docs.google.com/document/d/1BMdXLuWrPcqklPcL2jFDviO-JO1jhCTYo7cLxUp_Hd4/edit?usp=sharing)
