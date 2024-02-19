@@ -1,7 +1,10 @@
 # Vývoj aplikací v JavaScriptu (VAJ) - Summer 2024 
 Subject 460-2077/01
 
-Lectures and Labs: TODO
+Lectures and Labs on **Wednesday**:
+- **Lecture 15:00 - 15:45** at EC3
+- Practice Group 1 16:00 - 17:30 at EB213
+- Practice Group 2 17:45 - 19:15 at EB213
 
 Forum for any Q&A https://github.com/orgs/vsb-vaj/discussions
 
