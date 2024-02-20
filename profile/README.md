@@ -15,7 +15,7 @@ Forum for any Q&A https://github.com/orgs/vsb-vaj/discussions
 
 ## Labs
 - 01 Basics
-  - Assigment https://classroom.github.com/a/J4EfeOD4
+  - Assigment TBD
   - 5 points for all the tasks specified in README.md
   - 1 extra point for task-bonus.js
 
