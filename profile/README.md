@@ -10,7 +10,7 @@ Forum for any Q&A https://github.com/orgs/vsb-vaj/discussions
 
 ## Presentations 
 - Lecture 1
-  - 00 Intro to the subject - [Presentation](https://docs.google.com/presentation/d/1eFw-7veLP28g3YbHQ8DIyiH4PLQuvoJll90YCcsAZYs/edit?usp=sharing)
+  - 00 Intro to the subject - [Presentation](https://docs.google.com/presentation/d/1GlDydD61GIHvkAHEFH1rExSrGR8U-38xbO6IQXSD90M/edit?usp=sharing)
   - 01 Introduction to JavaScript and JavaScript Basics - [Presentation](https://docs.google.com/presentation/d/1OXI6oPNCKNX3ADz8KXPW_S6qKiNnV0u-hbpg_DzxZaA/edit?usp=sharing)
 
 ## Labs
