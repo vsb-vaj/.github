@@ -21,7 +21,9 @@ Forum for any Q&A https://github.com/orgs/vsb-vaj/discussions
   - 4 points for all the tasks specified in README.md
   - 1 extra point for task-bonus.js
 - 02 Advanced JS
-  - Assigment 
+  - Assigment https://classroom.github.com/a/5oWXUaBn
+  - 4 points for all tasks specified
+  - 1 extra point for task-bonus.js
 
 
 ## Project
