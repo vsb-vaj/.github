@@ -12,12 +12,16 @@ Forum for any Q&A https://github.com/orgs/vsb-vaj/discussions
 - Lecture 1
   - 00 Intro to the subject - [Presentation](https://docs.google.com/presentation/d/1GlDydD61GIHvkAHEFH1rExSrGR8U-38xbO6IQXSD90M/edit?usp=sharing)
   - 01 Introduction to JavaScript and JavaScript Basics - [Presentation](https://docs.google.com/presentation/d/1OXI6oPNCKNX3ADz8KXPW_S6qKiNnV0u-hbpg_DzxZaA/edit?usp=sharing)
+- Lecture 2
+  - 02 Advanced JS, promises, npm, node modules etc - [Presenetation](https://docs.google.com/presentation/d/118DjUf3Ynmq6LGW1L3mp9nzXY5j7XtkCW84WGoYYEAY/edit?usp=sharing)
 
 ## Labs
 - 01 Basics
   - Assigment https://classroom.github.com/a/xvBsffV8
   - 4 points for all the tasks specified in README.md
   - 1 extra point for task-bonus.js
+- 02 Advanced JS
+  - Assigment 
 
 
 ## Project
