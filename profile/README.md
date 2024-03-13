@@ -29,10 +29,12 @@ Forum for any Q&A https://github.com/orgs/vsb-vaj/discussions
   - 4 points for all tasks specified
   - 1 extra point for task-bonus.js
 - 03 Express & REST
-  - Assignment https://classroom.github.com/a/8LMIx3mp
+  - Assigment https://classroom.github.com/a/8LMIx3mp
   - 5 points for all tasks specified
   - 1 extra point for the bonus task
-
+- 04 REST API with ORM 
+  - Assigment https://classroom.github.com/a/aoqkfXQT
+  - 5 points for all tasks specified 
 
 ## Project
 - Project TBD
