@@ -16,6 +16,8 @@ Forum for any Q&A https://github.com/orgs/vsb-vaj/discussions
   - 02 Advanced JS, promises, npm, node modules etc - [Presenetation](https://docs.google.com/presentation/d/118DjUf3Ynmq6LGW1L3mp9nzXY5j7XtkCW84WGoYYEAY/edit?usp=sharing)
 - Lecture 3
   - 03 Express & REST - [Presentation](https://docs.google.com/presentation/d/1iUFTXVIzONv5alfCwgmMWJnmmacjJcHb9ivJED_UxEY/edit?usp=sharing)
+- Lecture 4 
+  - 04 NodeJS and ORM [Presentation](https://docs.google.com/presentation/d/1S8e92IURpWo8iBQlWF0e0XqEShb3GzdSB_IOOqEGlHw/edit?usp=sharing)
 
 ## Labs
 - 01 Basics
