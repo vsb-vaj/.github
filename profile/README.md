@@ -37,7 +37,7 @@ Forum for any Q&A https://github.com/orgs/vsb-vaj/discussions
   - 5 points for all tasks specified 
 
 ## Project
-- Project TBD
+- Project [assigment description](https://docs.google.com/document/d/1mbYYzY0j7Xq8KX8a2ei2_Ta1AQUWpfcpD0tORZt8AD4/edit?usp=sharing)
 
 ## Subject Evaluation
 You need to hand in the Labs on regular basis. There is 2 weeks deadline after each lab for submitting it (in case you won't finish on the lab). 
