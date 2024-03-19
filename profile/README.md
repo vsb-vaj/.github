@@ -18,6 +18,8 @@ Forum for any Q&A https://github.com/orgs/vsb-vaj/discussions
   - 03 Express & REST - [Presentation](https://docs.google.com/presentation/d/1iUFTXVIzONv5alfCwgmMWJnmmacjJcHb9ivJED_UxEY/edit?usp=sharing)
 - Lecture 4 
   - 04 NodeJS and ORM [Presentation](https://docs.google.com/presentation/d/1S8e92IURpWo8iBQlWF0e0XqEShb3GzdSB_IOOqEGlHw/edit?usp=sharing)
+- Lecture 5 
+  - 05 SPA & React intro [Presentation](https://docs.google.com/presentation/d/1O4iL9_6X4dKII7hQ4_tM98E4mKiF7LeLFQZ6VcsmRlA/edit?usp=sharing)
 
 ## Labs
 - 01 Basics
