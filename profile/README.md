@@ -37,6 +37,9 @@ Forum for any Q&A https://github.com/orgs/vsb-vaj/discussions
 - 04 REST API with ORM 
   - Assigment https://classroom.github.com/a/aoqkfXQT
   - 5 points for all tasks specified 
+- 05 React basics 
+  - Assigmnet https://classroom.github.com/a/CG0N0JO-
+  - 3 points for all tasks specified
 
 ## Project
 - Project [assigment description](https://docs.google.com/document/d/1mbYYzY0j7Xq8KX8a2ei2_Ta1AQUWpfcpD0tORZt8AD4/edit?usp=sharing)
