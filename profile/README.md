@@ -20,26 +20,32 @@ Forum for any Q&A https://github.com/orgs/vsb-vaj/discussions
   - 04 NodeJS and ORM [Presentation](https://docs.google.com/presentation/d/1S8e92IURpWo8iBQlWF0e0XqEShb3GzdSB_IOOqEGlHw/edit?usp=sharing)
 - Lecture 5 
   - 05 SPA & React intro [Presentation](https://docs.google.com/presentation/d/1O4iL9_6X4dKII7hQ4_tM98E4mKiF7LeLFQZ6VcsmRlA/edit?usp=sharing)
+- Lecture 6
+  - 06 React Hooks [Presentation](https://docs.google.com/presentation/d/1T9npQDbqJO1ew2f7yuCR_EQTrmkUtvTi9Q2xC2MKVnk/edit?usp=sharing)
 
 ## Labs
 - 01 Basics
-  - Assigment https://classroom.github.com/a/xvBsffV8
+  - Assignment https://classroom.github.com/a/xvBsffV8
   - 4 points for all the tasks specified in README.md
   - 1 extra point for task-bonus.js
 - 02 Advanced JS
-  - Assigment https://classroom.github.com/a/5oWXUaBn
+  - Assignment https://classroom.github.com/a/5oWXUaBn
   - 4 points for all tasks specified
   - 1 extra point for task-bonus.js
 - 03 Express & REST
-  - Assigment https://classroom.github.com/a/8LMIx3mp
+  - Assignment https://classroom.github.com/a/8LMIx3mp
   - 5 points for all tasks specified
   - 1 extra point for the bonus task
 - 04 REST API with ORM 
-  - Assigment https://classroom.github.com/a/aoqkfXQT
+  - Assignment https://classroom.github.com/a/aoqkfXQT
   - 5 points for all tasks specified 
 - 05 React basics 
-  - Assigmnet https://classroom.github.com/a/CG0N0JO-
+  - Assignment https://classroom.github.com/a/CG0N0JO-
   - 3 points for all tasks specified
+- 06 React Hooks
+  - Assignment https://classroom.github.com/a/OdAtWny6
+  - 4 points for all taks in README.md (0.5 points per task)
+  - 1 bonus point for the 2 bonus tasks (0.5 points per task)
 
 ## Project
 - Project [assigment description](https://docs.google.com/document/d/1mbYYzY0j7Xq8KX8a2ei2_Ta1AQUWpfcpD0tORZt8AD4/edit?usp=sharing)
