@@ -22,6 +22,8 @@ Forum for any Q&A https://github.com/orgs/vsb-vaj/discussions
   - 05 SPA & React intro [Presentation](https://docs.google.com/presentation/d/1O4iL9_6X4dKII7hQ4_tM98E4mKiF7LeLFQZ6VcsmRlA/edit?usp=sharing)
 - Lecture 6
   - 06 React Hooks [Presentation](https://docs.google.com/presentation/d/1T9npQDbqJO1ew2f7yuCR_EQTrmkUtvTi9Q2xC2MKVnk/edit?usp=sharing)
+- Lecture 7
+  - 07 React Router [Presentation](https://docs.google.com/presentation/d/1ZVbaUCnCnRyFpzrvAwOM902g-6JtJdi5EyigznZ-i0s/edit?usp=sharing)
 
 ## Labs
 - 01 Basics
@@ -44,8 +46,11 @@ Forum for any Q&A https://github.com/orgs/vsb-vaj/discussions
   - 3 points for all tasks specified
 - 06 React Hooks
   - Assignment https://classroom.github.com/a/OdAtWny6
-  - 4 points for all taks in README.md (0.5 points per task)
+  - 4 points for all tasks in README.md (0.5 points per task)
   - 1 bonus point for the 2 bonus tasks (0.5 points per task)
+- 07 React Router
+  - Assignment https://classroom.github.com/a/YdHSI4vS
+  - 4 points for all tasks in README.md 
 
 ## Project
 - Project [assigment description](https://docs.google.com/document/d/1mbYYzY0j7Xq8KX8a2ei2_Ta1AQUWpfcpD0tORZt8AD4/edit?usp=sharing)
