@@ -24,6 +24,8 @@ Forum for any Q&A https://github.com/orgs/vsb-vaj/discussions
   - 06 React Hooks [Presentation](https://docs.google.com/presentation/d/1T9npQDbqJO1ew2f7yuCR_EQTrmkUtvTi9Q2xC2MKVnk/edit?usp=sharing)
 - Lecture 7
   - 07 React Router [Presentation](https://docs.google.com/presentation/d/1ZVbaUCnCnRyFpzrvAwOM902g-6JtJdi5EyigznZ-i0s/edit?usp=sharing)
+- Lecture 8
+  - 08 UI Frameworks [Presentation](https://docs.google.com/presentation/d/1ERjcaMK8gytK-GobzhWKQa2AHhRDCkbaK4qmb0mlY6U/edit?usp=sharing)
 
 ## Labs
 - 01 Basics
@@ -50,7 +52,11 @@ Forum for any Q&A https://github.com/orgs/vsb-vaj/discussions
   - 1 bonus point for the 2 bonus tasks (0.5 points per task)
 - 07 React Router
   - Assignment https://classroom.github.com/a/YdHSI4vS
-  - 4 points for all tasks in README.md 
+  - 4 points for all tasks in README.md
+- 08 Material UI
+  - Assignment https://classroom.github.com/a/5yygrSmm
+  - 5 points for all tasks in README.md
+  - 1 bonus point for the bonus task
 
 ## Project
 - Project [assigment description](https://docs.google.com/document/d/1mbYYzY0j7Xq8KX8a2ei2_Ta1AQUWpfcpD0tORZt8AD4/edit?usp=sharing)
