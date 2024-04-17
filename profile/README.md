@@ -26,7 +26,7 @@ Forum for any Q&A https://github.com/orgs/vsb-vaj/discussions
   - 07 React Router [Presentation](https://docs.google.com/presentation/d/1ZVbaUCnCnRyFpzrvAwOM902g-6JtJdi5EyigznZ-i0s/edit?usp=sharing)
 - Lecture 8
   - 08 UI Frameworks [Presentation](https://docs.google.com/presentation/d/1ERjcaMK8gytK-GobzhWKQa2AHhRDCkbaK4qmb0mlY6U/edit?usp=sharing)
-- Lecture 0
+- Lecture 9
   - 09 Remix [Presentation](https://remix.run/)
 
 
