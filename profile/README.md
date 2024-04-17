@@ -26,6 +26,9 @@ Forum for any Q&A https://github.com/orgs/vsb-vaj/discussions
   - 07 React Router [Presentation](https://docs.google.com/presentation/d/1ZVbaUCnCnRyFpzrvAwOM902g-6JtJdi5EyigznZ-i0s/edit?usp=sharing)
 - Lecture 8
   - 08 UI Frameworks [Presentation](https://docs.google.com/presentation/d/1ERjcaMK8gytK-GobzhWKQa2AHhRDCkbaK4qmb0mlY6U/edit?usp=sharing)
+- Lecture 0
+  - 09 Remix [Presentation](https://remix.run/)
+
 
 ## Labs
 - 01 Basics
@@ -57,6 +60,9 @@ Forum for any Q&A https://github.com/orgs/vsb-vaj/discussions
   - Assignment https://classroom.github.com/a/5yygrSmm
   - 5 points for all tasks in README.md
   - 1 bonus point for the bonus task
+- 09 Remix
+  - Assignment https://classroom.github.com/a/ZSYihm3r
+  - 1 point for the task in README.md
 
 ## Project
 - Project [assigment description](https://docs.google.com/document/d/1mbYYzY0j7Xq8KX8a2ei2_Ta1AQUWpfcpD0tORZt8AD4/edit?usp=sharing)
