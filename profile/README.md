@@ -19,7 +19,7 @@ Forum for any Q&A https://github.com/orgs/vsb-vaj/discussions
   - Assignment [https://classroom.github.com/a/iZAScjVw](https://classroom.github.com/a/iZAScjVw)
   - 4 points for all the tasks specified in README.md
   - 1 extra point for task-bonus.js
-
+  - Due Mar 5, 2025, 22:59 UTC
 
 ## Project
 - Project TBD
