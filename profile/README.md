@@ -12,6 +12,7 @@ Forum for any Q&A https://github.com/orgs/vsb-vaj/discussions
 - Lecture 1
   - 00 Intro to the subject - [presentation](https://docs.google.com/presentation/d/1fg9hc8wu0giDWeY_-eLFmMMoGcCurY6T99fgrpEEyzw/edit?usp=sharing)
   - 01 Introduction to JavaScript and JavaScript Basics - [presentation](https://docs.google.com/presentation/d/1-2gl_ycLBRFdR0Rtzc6jlwqIJY6HyjMlA7kv502PfIE/edit?usp=sharing)
+- Lecture 2
   - 02 Advanced JS, Modules, Async, NPM, Debugger, FS - [presentation](https://docs.google.com/presentation/d/1oBhLwi_Wh7kdfiOBZymfzpTkvDaueoxtRokrK1ApHL4/edit?usp=sharing)
 
 
