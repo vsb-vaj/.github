@@ -12,6 +12,7 @@ Forum for any Q&A https://github.com/orgs/vsb-vaj/discussions
 - Lecture 1
   - 00 Intro to the subject - [presentation](https://docs.google.com/presentation/d/1fg9hc8wu0giDWeY_-eLFmMMoGcCurY6T99fgrpEEyzw/edit?usp=sharing)
   - 01 Introduction to JavaScript and JavaScript Basics - [presentation](https://docs.google.com/presentation/d/1-2gl_ycLBRFdR0Rtzc6jlwqIJY6HyjMlA7kv502PfIE/edit?usp=sharing)
+  - 02 Advanced JS, Modules, Async, NPM, Debugger, FS - [presentation](https://docs.google.com/presentation/d/1oBhLwi_Wh7kdfiOBZymfzpTkvDaueoxtRokrK1ApHL4/edit?usp=sharing)
 
 
 ## Labs
@@ -20,6 +21,12 @@ Forum for any Q&A https://github.com/orgs/vsb-vaj/discussions
   - 4 points for all the tasks specified in README.md
   - 1 extra point for task-bonus.js
   - Due Mar 5, 2025, 22:59 UTC
+
+- 02 Advanced JS
+  - Assigment TODO
+  - 4 points for all the tasks specified in README.md
+  - 1 extra point for task-bonus.js
+  - 1 extra point for fastes implementation of task-bonus.js - info [here](https://github.com/orgs/vsb-vaj/discussions/16#discussion-8016040)
 
 ## Project
 - Project TBD
