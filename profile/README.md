@@ -24,7 +24,7 @@ Forum for any Q&A https://github.com/orgs/vsb-vaj/discussions
   - Due Mar 5, 2025, 22:59 UTC
 
 - 02 Advanced JS
-  - Assigment TODO
+  - Assigment [https://classroom.github.com/a/QNE3naG4](https://classroom.github.com/a/QNE3naG4)
   - 4 points for all the tasks specified in README.md
   - 1 extra point for task-bonus.js
   - 1 extra point for fastes implementation of task-bonus.js - info [here](https://github.com/orgs/vsb-vaj/discussions/16#discussion-8016040)
