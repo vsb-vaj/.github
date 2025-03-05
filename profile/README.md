@@ -27,6 +27,7 @@ Forum for any Q&A https://github.com/orgs/vsb-vaj/discussions
   - 4 points for all the tasks specified in README.md
   - 1 extra point for task-bonus.js
   - 1 extra point for fastes implementation of task-bonus.js - info [here](https://github.com/orgs/vsb-vaj/discussions/16#discussion-8016040)
+  - Due March 11 
 
 - 03 Express JS
   - Assigment [https://classroom.github.com/a/lhSVyzDY](https://classroom.github.com/a/lhSVyzDY)
