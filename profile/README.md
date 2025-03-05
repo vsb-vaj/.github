@@ -9,11 +9,10 @@ Lectures and Labs on **Wednesday**:
 Forum for any Q&A https://github.com/orgs/vsb-vaj/discussions
 
 ## Presentations 
-- Lecture 1
   - 00 Intro to the subject - [presentation](https://docs.google.com/presentation/d/1fg9hc8wu0giDWeY_-eLFmMMoGcCurY6T99fgrpEEyzw/edit?usp=sharing)
   - 01 Introduction to JavaScript and JavaScript Basics - [presentation](https://docs.google.com/presentation/d/1-2gl_ycLBRFdR0Rtzc6jlwqIJY6HyjMlA7kv502PfIE/edit?usp=sharing)
-- Lecture 2
   - 02 Advanced JS, Modules, Async, NPM, Debugger, FS - [presentation](https://docs.google.com/presentation/d/1oBhLwi_Wh7kdfiOBZymfzpTkvDaueoxtRokrK1ApHL4/edit?usp=sharing)
+  - 03 NodeJS Express & REST API - [presentation](https://docs.google.com/presentation/d/1kqi9kMPvtgFPrEdCKto0DSooTjoDwsvdnzNkwLAi1_0/edit?usp=sharing)
 
 
 ## Labs
@@ -33,7 +32,7 @@ Forum for any Q&A https://github.com/orgs/vsb-vaj/discussions
 - Project TBD
 
 ## Subject Evaluation
-- Points can be found [here]TBD
+- Points can be found [here](https://docs.google.com/spreadsheets/d/10IjP6Z71eWX33XH4IiC3cH9vLtBnL3U9cM7VzS2pc90/edit?usp=sharing)
 - You need to hand in the Labs on regular basis. There is 2 weeks deadline after each lab for submitting it (in case you won't finish on the lab). 
 
 |           | Max     | Min    |
