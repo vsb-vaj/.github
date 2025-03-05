@@ -28,6 +28,11 @@ Forum for any Q&A https://github.com/orgs/vsb-vaj/discussions
   - 1 extra point for task-bonus.js
   - 1 extra point for fastes implementation of task-bonus.js - info [here](https://github.com/orgs/vsb-vaj/discussions/16#discussion-8016040)
 
+- 03 Express JS
+  - Assigment [https://classroom.github.com/a/lhSVyzDY](https://classroom.github.com/a/lhSVyzDY)
+  - 3 points for all the tasks
+  - 1 point for 2 bonus tasks 
+
 ## Project
 - Project TBD
 
