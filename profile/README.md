@@ -32,6 +32,7 @@ Forum for any Q&A https://github.com/orgs/vsb-vaj/discussions
   - Assigment [https://classroom.github.com/a/lhSVyzDY](https://classroom.github.com/a/lhSVyzDY)
   - 3 points for all the tasks
   - 1 point for 2 bonus tasks 
+  - Due Mar 17, 2025, 11:59 UTC
 
 ## Project
 - Project TBD
