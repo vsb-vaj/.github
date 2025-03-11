@@ -13,6 +13,7 @@ Forum for any Q&A https://github.com/orgs/vsb-vaj/discussions
   - 01 Introduction to JavaScript and JavaScript Basics - [presentation](https://docs.google.com/presentation/d/1-2gl_ycLBRFdR0Rtzc6jlwqIJY6HyjMlA7kv502PfIE/edit?usp=sharing)
   - 02 Advanced JS, Modules, Async, NPM, Debugger, FS - [presentation](https://docs.google.com/presentation/d/1oBhLwi_Wh7kdfiOBZymfzpTkvDaueoxtRokrK1ApHL4/edit?usp=sharing)
   - 03 NodeJS Express & REST API - [presentation](https://docs.google.com/presentation/d/1kqi9kMPvtgFPrEdCKto0DSooTjoDwsvdnzNkwLAi1_0/edit?usp=sharing)
+  - 04 ORM Prisma & REST API - [presenetation](https://docs.google.com/presentation/d/1sRWelOVZbr-5KhJPbHzDtt2rRZlpZP-w7UL6fN_Lb4E/edit?usp=sharing)
 
 
 ## Labs
@@ -34,6 +35,9 @@ Forum for any Q&A https://github.com/orgs/vsb-vaj/discussions
   - 3 points for all the tasks
   - 1 point for 2 bonus tasks 
   - Due Mar 17, 2025, 11:59 UTC
+
+- 04 ORM Prisma & REST API
+ - Assigment ...
 
 ## Project
 - Project TBD
