@@ -37,7 +37,9 @@ Forum for any Q&A https://github.com/orgs/vsb-vaj/discussions
   - Due Mar 17, 2025, 11:59 UTC
 
 - 04 ORM Prisma & REST API
- - Assigment ...
+ - Assigment [https://classroom.github.com/a/oTvD4rc6](https://classroom.github.com/a/oTvD4rc6)
+ - 4 points for all the tasks
+ - Due Mar 26, 2025, 14:00 UTC
 
 ## Project
 - Project TBD
