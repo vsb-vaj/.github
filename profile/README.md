@@ -42,7 +42,7 @@ Forum for any Q&A https://github.com/orgs/vsb-vaj/discussions
   - Due Mar 26, 2025, 14:00 UTC
 
 - 05 SPA & React
-  - Assigment 
+  - Assigment https://classroom.github.com/a/qCiVs_GA
   - 3 points for allt he tasks
   - Due Due Mar 31, 2025, 10:29 UTC
 
