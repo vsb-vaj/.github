@@ -14,7 +14,7 @@ Forum for any Q&A https://github.com/orgs/vsb-vaj/discussions
   - 02 Advanced JS, Modules, Async, NPM, Debugger, FS - [presentation](https://docs.google.com/presentation/d/1oBhLwi_Wh7kdfiOBZymfzpTkvDaueoxtRokrK1ApHL4/edit?usp=sharing)
   - 03 NodeJS Express & REST API - [presentation](https://docs.google.com/presentation/d/1kqi9kMPvtgFPrEdCKto0DSooTjoDwsvdnzNkwLAi1_0/edit?usp=sharing)
   - 04 ORM Prisma & REST API - [presenetation](https://docs.google.com/presentation/d/1sRWelOVZbr-5KhJPbHzDtt2rRZlpZP-w7UL6fN_Lb4E/edit?usp=sharing)
-
+  - 05 SPA & React - [presentation](https://docs.google.com/presentation/d/1CZJ0WgQ4lg9uy944HIibLFc0yekyCHU0pF-IUqwNct8/edit?usp=sharing)
 
 ## Labs
 - 01 Basics
@@ -41,8 +41,11 @@ Forum for any Q&A https://github.com/orgs/vsb-vaj/discussions
   - 4 points for all the tasks
   - Due Mar 26, 2025, 14:00 UTC
 
+- 05 SPA & React
+  - Assigment  
+
 ## Project
-- Project TBD
+- Project info [here](https://docs.google.com/document/d/1o2b6Rx1TXxssVNWquiox8zSkvp6R4iInYVB4AzqXDSE/edit?usp=sharing)
 
 ## Subject Evaluation
 - Points can be found [here](https://docs.google.com/spreadsheets/d/10IjP6Z71eWX33XH4IiC3cH9vLtBnL3U9cM7VzS2pc90/edit?usp=sharing)
