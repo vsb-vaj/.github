@@ -15,6 +15,7 @@ Forum for any Q&A https://github.com/orgs/vsb-vaj/discussions
   - 03 NodeJS Express & REST API - [presentation](https://docs.google.com/presentation/d/1kqi9kMPvtgFPrEdCKto0DSooTjoDwsvdnzNkwLAi1_0/edit?usp=sharing)
   - 04 ORM Prisma & REST API - [presenetation](https://docs.google.com/presentation/d/1sRWelOVZbr-5KhJPbHzDtt2rRZlpZP-w7UL6fN_Lb4E/edit?usp=sharing)
   - 05 SPA & React - [presentation](https://docs.google.com/presentation/d/1CZJ0WgQ4lg9uy944HIibLFc0yekyCHU0pF-IUqwNct8/edit?usp=sharing)
+  - 06 React Hooks - [presentation](https://docs.google.com/presentation/d/13In4ripQGv-weoiMTmu3cvgMaoADj19i68eCJv8xACw/edit?usp=sharing)
 
 ## Labs
 - 01 Basics
@@ -43,8 +44,14 @@ Forum for any Q&A https://github.com/orgs/vsb-vaj/discussions
 
 - 05 SPA & React
   - Assigment https://classroom.github.com/a/qCiVs_GA
-  - 3 points for allt he tasks
+  - 5 points for all the tasks
   - Due Due Mar 31, 2025, 10:29 UTC
+
+- 06 React Hooks
+  - Assigment https://classroom.github.com/a/lYIA5XyV
+  - 5 points for 5 tasks in README.md
+  - 1 extra point for the bonus task
+  - Due Apr 9, 2025, 12:00 UTC
 
 ## Project
 - Project info [here](https://docs.google.com/document/d/1o2b6Rx1TXxssVNWquiox8zSkvp6R4iInYVB4AzqXDSE/edit?usp=sharing)
