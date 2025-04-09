@@ -17,6 +17,7 @@ Forum for any Q&A https://github.com/orgs/vsb-vaj/discussions
   - 05 SPA & React - [presentation](https://docs.google.com/presentation/d/1CZJ0WgQ4lg9uy944HIibLFc0yekyCHU0pF-IUqwNct8/edit?usp=sharing)
   - 06 React Hooks - [presentation](https://docs.google.com/presentation/d/13In4ripQGv-weoiMTmu3cvgMaoADj19i68eCJv8xACw/edit?usp=sharing)
   - 07 React Router - [presentation](https://docs.google.com/presentation/d/1d0GECwOEhgVIn1Ozg_r_NVsfZdFTfHvtFnE4lE8GbYM/edit?usp=sharing)
+  - 08 React UI Frameworks - [presentation](https://docs.google.com/presentation/d/1wPLu0ZvcS28eRV5B0PM86sun5nulPnWFY9_aiVsNc6o/edit?usp=sharing)
 
 ## Labs
 - 01 Basics
@@ -59,6 +60,12 @@ Forum for any Q&A https://github.com/orgs/vsb-vaj/discussions
   - 5 points for 5 tasks in README.md
   - 1 extra point for the bonus task
   - Due Apr 16, 2025, 12:00 UTC
+ 
+- 08 React UI Frameworks
+  - Assigment https://classroom.github.com/a/wtlJV9zm
+  - 5 points for 5 tasks in README.md
+  - 1 extra point for the bonus task
+  - Due Apr 23, 2025, 14:00 UTC
 
 ## Project
 - Project info [here](https://docs.google.com/document/d/1o2b6Rx1TXxssVNWquiox8zSkvp6R4iInYVB4AzqXDSE/edit?usp=sharing)
