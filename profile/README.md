@@ -1,4 +1,4 @@
-# Vývoj aplikací v JavaScriptu (VAJ) - Summer 2025 
+# Vývoj aplikací v JavaScriptu (VAJ) - Summer 2026
 Subject 460-2077/01
 
 Lectures and Labs on **Wednesday**:
@@ -9,70 +9,21 @@ Lectures and Labs on **Wednesday**:
 Forum for any Q&A https://github.com/orgs/vsb-vaj/discussions
 
 ## Presentations 
-  - 00 Intro to the subject - [presentation](https://docs.google.com/presentation/d/1fg9hc8wu0giDWeY_-eLFmMMoGcCurY6T99fgrpEEyzw/edit?usp=sharing)
-  - 01 Introduction to JavaScript and JavaScript Basics - [presentation](https://docs.google.com/presentation/d/1-2gl_ycLBRFdR0Rtzc6jlwqIJY6HyjMlA7kv502PfIE/edit?usp=sharing)
-  - 02 Advanced JS, Modules, Async, NPM, Debugger, FS - [presentation](https://docs.google.com/presentation/d/1oBhLwi_Wh7kdfiOBZymfzpTkvDaueoxtRokrK1ApHL4/edit?usp=sharing)
-  - 03 NodeJS Express & REST API - [presentation](https://docs.google.com/presentation/d/1kqi9kMPvtgFPrEdCKto0DSooTjoDwsvdnzNkwLAi1_0/edit?usp=sharing)
-  - 04 ORM Prisma & REST API - [presenetation](https://docs.google.com/presentation/d/1sRWelOVZbr-5KhJPbHzDtt2rRZlpZP-w7UL6fN_Lb4E/edit?usp=sharing)
-  - 05 SPA & React - [presentation](https://docs.google.com/presentation/d/1CZJ0WgQ4lg9uy944HIibLFc0yekyCHU0pF-IUqwNct8/edit?usp=sharing)
-  - 06 React Hooks - [presentation](https://docs.google.com/presentation/d/13In4ripQGv-weoiMTmu3cvgMaoADj19i68eCJv8xACw/edit?usp=sharing)
-  - 07 React Router - [presentation](https://docs.google.com/presentation/d/1d0GECwOEhgVIn1Ozg_r_NVsfZdFTfHvtFnE4lE8GbYM/edit?usp=sharing)
-  - 08 React UI Frameworks - [presentation](https://docs.google.com/presentation/d/1wPLu0ZvcS28eRV5B0PM86sun5nulPnWFY9_aiVsNc6o/edit?usp=sharing)
+  - 00 Intro to the subject - [presentation](https://docs.google.com/presentation/d/1bXqZlBsV21r9Le_UA4FZqeV_oRUAzqbIUn_Tw6Bgyfw/edit?usp=sharing)
+  - 01 Intro into JavaScript - [presentation](https://docs.google.com/presentation/d/1ELR1CxEuNQjYG4immJEahDxdHtY7DZcvDkKYz_R0K4I/edit?usp=sharing)
+
 
 ## Labs
 - 01 Basics
-  - Assignment [https://classroom.github.com/a/iZAScjVw](https://classroom.github.com/a/iZAScjVw)
-  - 4 points for all the tasks specified in README.md
-  - 1 extra point for task-bonus.js
-  - Due Mar 5, 2025, 22:59 UTC
+  - TBD
 
-- 02 Advanced JS
-  - Assigment [https://classroom.github.com/a/QNE3naG4](https://classroom.github.com/a/QNE3naG4)
-  - 4 points for all the tasks specified in README.md
-  - 1 extra point for task-bonus.js
-  - 1 extra point for fastes implementation of task-bonus.js - info [here](https://github.com/orgs/vsb-vaj/discussions/16#discussion-8016040)
-  - Due March 11 
-
-- 03 Express JS
-  - Assigment [https://classroom.github.com/a/lhSVyzDY](https://classroom.github.com/a/lhSVyzDY)
-  - 3 points for all the tasks
-  - 1 point for 2 bonus tasks 
-  - Due Mar 17, 2025, 11:59 UTC
-
-- 04 ORM Prisma & REST API
-  - Assigment [https://classroom.github.com/a/oTvD4rc6](https://classroom.github.com/a/oTvD4rc6)
-  - 4 points for all the tasks
-  - Due Mar 26, 2025, 14:00 UTC
-
-- 05 SPA & React
-  - Assigment https://classroom.github.com/a/qCiVs_GA
-  - 5 points for all the tasks
-  - Due Due Mar 31, 2025, 10:29 UTC
-
-- 06 React Hooks
-  - Assigment https://classroom.github.com/a/lYIA5XyV
-  - 5 points for 5 tasks in README.md
-  - 1 extra point for the bonus task
-  - Due Apr 9, 2025, 12:00 UTC
- 
-- 07 React Router
-  - Assigment https://classroom.github.com/a/Y06mAgIC
-  - 5 points for 5 tasks in README.md
-  - 1 extra point for the bonus task
-  - Due Apr 16, 2025, 12:00 UTC
- 
-- 08 React UI Frameworks
-  - Assigment https://classroom.github.com/a/wtlJV9zm
-  - 5 points for 5 tasks in README.md
-  - 1 extra point for the bonus task
-  - Due Apr 23, 2025, 14:00 UTC
 
 ## Project
-- Project info [here](https://docs.google.com/document/d/1o2b6Rx1TXxssVNWquiox8zSkvp6R4iInYVB4AzqXDSE/edit?usp=sharing)
+- Project info TBD
 
 ## Subject Evaluation
-- Points can be found [here](https://docs.google.com/spreadsheets/d/10IjP6Z71eWX33XH4IiC3cH9vLtBnL3U9cM7VzS2pc90/edit?usp=sharing)
-- You need to hand in the Labs on regular basis. There is 2 weeks deadline after each lab for submitting it (in case you won't finish on the lab). 
+- Points can be found TBD
+- You need to hand in the Labs on regular basis. There is ~2 weeks deadline after each lab for submitting it (in case you won't finish on the lab). 
 
 |           | Max     | Min    |
 |-----------|---------|--------|
@@ -80,6 +31,8 @@ Forum for any Q&A https://github.com/orgs/vsb-vaj/discussions
 | Project   |    40   |   10   |
 | Test      |    25   |   10   |
 | **Total** | **100** | **51** |
+
+Cheating - if you copy the code of your peer, you both get 0 points. 
 
 ------------------------
 ## More subject info in [Edison](https://edison.sso.vsb.cz/cz.vsb.edison.edu.study.prepare.web/SubjectVersion.faces?version=460-2077/01&studyPlanId=24376&locale=cs)
