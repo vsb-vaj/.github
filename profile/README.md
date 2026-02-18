@@ -15,7 +15,7 @@ Forum for any Q&A https://github.com/orgs/vsb-vaj/discussions
 
 ## Labs
 - 01 Basics
-  - Assigment https://classroom.github.com/a/2UBHDn9A
+  - Assigment https://classroom.github.com/a/GbkmSEMa
   - Deadline Due Mar 3, 2026, 15:08 UTC
   - 3 points + 1 bonus point
 
