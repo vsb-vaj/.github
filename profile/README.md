@@ -19,7 +19,10 @@ Forum for any Q&A https://github.com/orgs/vsb-vaj/discussions
   - Assigment https://classroom.github.com/a/GbkmSEMa
   - Deadline Due Mar 3, 2026, 15:08 UTC
   - 3 points + 1 bonus point
-
+- 02 Advacned JS
+  - Assigment https://classroom.github.com/a/aRRqJszy
+  - Deadline Due Mar 10, 2026, 14:57 UTC
+  - 3 points + 1 bonus point 
 
 ## Project
 - Project info TBD
