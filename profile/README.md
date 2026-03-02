@@ -12,7 +12,7 @@ Forum for any Q&A https://github.com/orgs/vsb-vaj/discussions
   - 00 Intro to the subject - [presentation](https://docs.google.com/presentation/d/1bXqZlBsV21r9Le_UA4FZqeV_oRUAzqbIUn_Tw6Bgyfw/edit?usp=sharing)
   - 01 Intro into JavaScript - [presentation](https://docs.google.com/presentation/d/1ELR1CxEuNQjYG4immJEahDxdHtY7DZcvDkKYz_R0K4I/edit?usp=sharing)
   - 02 Advanced JavaScript - [presentation](https://docs.google.com/presentation/d/1Rl_gUB12qWAXLSoankeUt_kw-nQbEA-I5VxcWos8jF0/edit?usp=sharing)
-
+  - 03 Express & REST - [presentation](https://docs.google.com/presentation/d/1KszonZYLHqZy9VlEMQs1q4q32a5FRi4_IE64X0y4Dro/edit?usp=sharing)
 
 ## Labs
 - 01 Basics
