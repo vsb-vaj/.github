@@ -27,7 +27,7 @@ Contacts: petr.vecera@vsb.cz, dusan.pausly.st@vsb.cz
   - 3 points + 1 bonus point 
 
 - 03 Express JS + REST API
-  - Assigmeent https://classroom.github.com/a/tUbc6Xy0
+  - Assigmeent https://classroom.github.com/a/xyx2k4L4
   - Deadline due Due Mar 16, 2026, 22:57 UTC
   - 2 points + 1 bonus point 
 
