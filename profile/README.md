@@ -15,6 +15,7 @@ Contacts: petr.vecera@vsb.cz, dusan.pausly.st@vsb.cz
   - 01 Intro into JavaScript - [presentation](https://docs.google.com/presentation/d/1ELR1CxEuNQjYG4immJEahDxdHtY7DZcvDkKYz_R0K4I/edit?usp=sharing)
   - 02 Advanced JavaScript - [presentation](https://docs.google.com/presentation/d/1Rl_gUB12qWAXLSoankeUt_kw-nQbEA-I5VxcWos8jF0/edit?usp=sharing)
   - 03 Express & REST - [presentation](https://docs.google.com/presentation/d/1KszonZYLHqZy9VlEMQs1q4q32a5FRi4_IE64X0y4Dro/edit?usp=sharing)
+  - 04 TS + ORM - [presentation](https://docs.google.com/presentation/d/16a7Xwyr0TBblpI_OQc2AzGNmy6XUzVW1ZQsprvCrp_g/edit?usp=sharing)
 
 ## Labs
 - 01 Basics
@@ -35,7 +36,7 @@ Contacts: petr.vecera@vsb.cz, dusan.pausly.st@vsb.cz
 - Project info TBD
 
 ## Subject Evaluation
-- Points can be found TBD
+- Points can be found [here](https://docs.google.com/spreadsheets/d/1LbSrly7iDfMELicJ0G7jNVOccIlXa2MvVkjnGkNTiUE/edit?usp=sharing)
 - You need to hand in the Labs on regular basis. There is ~2 weeks deadline after each lab for submitting it (in case you won't finish on the lab). 
 
 |           | Max     | Min    |
