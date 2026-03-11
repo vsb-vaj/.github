@@ -33,7 +33,7 @@ Contacts: petr.vecera@vsb.cz, dusan.pausly.st@vsb.cz
   - 2 points + 1 bonus point
 
 - 04 ORM
-  - Assigment https://classroom.github.com/a/3A8yVys_
+  - Assigment [https://classroom.github.com/a/3A8yVys_](https://classroom.github.com/a/3A8yVys_)
   - Deadline due Due Mar 24, 2026, 14:57 UTC
   - 4 points 
 
