@@ -16,6 +16,7 @@ Contacts: petr.vecera@vsb.cz, dusan.pausly.st@vsb.cz
   - 02 Advanced JavaScript - [presentation](https://docs.google.com/presentation/d/1Rl_gUB12qWAXLSoankeUt_kw-nQbEA-I5VxcWos8jF0/edit?usp=sharing)
   - 03 Express & REST - [presentation](https://docs.google.com/presentation/d/1KszonZYLHqZy9VlEMQs1q4q32a5FRi4_IE64X0y4Dro/edit?usp=sharing)
   - 04 TS + ORM - [presentation](https://docs.google.com/presentation/d/16a7Xwyr0TBblpI_OQc2AzGNmy6XUzVW1ZQsprvCrp_g/edit?usp=sharing)
+  - 05 SPA + React - [presentation](https://docs.google.com/presentation/d/136YgblMMP5BSm8h3gRLXYjMOTj2Z21GjcvMJhZAKMiQ/edit?usp=drive_link)
 
 ## Labs
 - 01 Basics
@@ -35,7 +36,12 @@ Contacts: petr.vecera@vsb.cz, dusan.pausly.st@vsb.cz
 - 04 ORM
   - Assigment [https://classroom.github.com/a/3A8yVys_](https://classroom.github.com/a/3A8yVys_)
   - Deadline due Due Mar 24, 2026, 14:57 UTC
-  - 4 points 
+  - 4 points
+ 
+- 05 SPA + React
+  - Assigment https://classroom.github.com/a/rvEBXWLX
+  - Deadline Due Mar 31, 2026, 18:12 UTC
+  - 3 points 
 
 ## Project
 - Project info TBD
