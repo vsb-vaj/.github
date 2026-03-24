@@ -65,7 +65,8 @@ Contacts: petr.vecera@vsb.cz, dusan.pausly.st@vsb.cz
   - Deadline
 
 ## Project
-- Project info TBD
+- Project instructions https://docs.google.com/document/d/1PK_BEYTDyHWG7eSjztHJkYLdYDQxnc_FzmnITog6iC8/edit?usp=sharing
+- Assigment https://classroom.github.com/a/q2moWRZj
 
 ## Subject Evaluation
 - Points can be found [here](https://docs.google.com/spreadsheets/d/1LbSrly7iDfMELicJ0G7jNVOccIlXa2MvVkjnGkNTiUE/edit?usp=sharing)
