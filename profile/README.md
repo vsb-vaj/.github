@@ -17,7 +17,10 @@ Contacts: petr.vecera@vsb.cz, dusan.pausly.st@vsb.cz
   - 03 Express & REST - [presentation](https://docs.google.com/presentation/d/1KszonZYLHqZy9VlEMQs1q4q32a5FRi4_IE64X0y4Dro/edit?usp=sharing)
   - 04 TS + ORM - [presentation](https://docs.google.com/presentation/d/16a7Xwyr0TBblpI_OQc2AzGNmy6XUzVW1ZQsprvCrp_g/edit?usp=sharing)
   - 05 SPA + React - [presentation](https://docs.google.com/presentation/d/136YgblMMP5BSm8h3gRLXYjMOTj2Z21GjcvMJhZAKMiQ/edit?usp=drive_link)
-  - 06 Functional programming, React Hooks - [presentation](https://docs.google.com/presentation/d/1bnIUCJ9P94LVnxpHrrkpbaG8_F4uADNAIv3aEQvi1H0/edit?usp=sharing)
+  - 06 Functional programming & React Hooks - [presentation](https://docs.google.com/presentation/d/1bnIUCJ9P94LVnxpHrrkpbaG8_F4uADNAIv3aEQvi1H0/edit?usp=sharing)
+  - 07 Routing / React Router
+  - 08 React UI Frameworks
+  - 09 Bundling, Production & Delivery
 
 ## Labs
 - 01 Basics
@@ -48,6 +51,18 @@ Contacts: petr.vecera@vsb.cz, dusan.pausly.st@vsb.cz
   - Assigment https://classroom.github.com/a/bKr0GMzL
   - Deadline Due Apr 7, 2026, 11:37 UTC
   - 3 points + 2 bonus
+ 
+- 07 Routing / React Router
+  - Assignment 
+  - 2 points for all the tasks
+  - 1 Bonus point
+  - Deadline
+ 
+- 08 React UI Frameworks
+  - Assignment
+  - 2 points for all the tasks
+  - 1 Bonus point
+  - Deadline
 
 ## Project
 - Project info TBD
