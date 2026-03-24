@@ -40,27 +40,27 @@ Contacts: petr.vecera@vsb.cz, dusan.pausly.st@vsb.cz
 - 04 ORM
   - Assigment [https://classroom.github.com/a/3A8yVys_](https://classroom.github.com/a/3A8yVys_)
   - Deadline due Due Mar 24, 2026, 14:57 UTC
-  - 4 points
+  - 5 points
  
 - 05 SPA + React
   - Assigment https://classroom.github.com/a/rvEBXWLX
   - Deadline Due Mar 31, 2026, 18:12 UTC
-  - 3 points
+  - 5 points
  
 - 06 Functional programming, React Hooks
   - Assigment https://classroom.github.com/a/bKr0GMzL
   - Deadline Due Apr 7, 2026, 11:37 UTC
-  - 3 points + 2 bonus
+  - 5 points + 2 bonus
  
 - 07 Routing / React Router
   - Assignment 
-  - 2 points for all the tasks
-  - 1 Bonus point
+  - 5 points for all the tasks
+  - 1 Bonus points
   - Deadline
  
 - 08 React UI Frameworks
   - Assignment
-  - 2 points for all the tasks
+  - 5 points for all the tasks
   - 1 Bonus point
   - Deadline
 
