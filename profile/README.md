@@ -44,7 +44,7 @@ Contacts: petr.vecera@vsb.cz, dusan.pausly.st@vsb.cz
   - Deadline Due Mar 31, 2026, 18:12 UTC
   - 3 points
  
-- 05 Functional programming, React Hooks
+- 06 Functional programming, React Hooks
   - Assigment https://classroom.github.com/a/bKr0GMzL
   - Deadline Due Apr 7, 2026, 11:37 UTC
   - 3 points + 2 bonus
