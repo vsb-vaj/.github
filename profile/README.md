@@ -67,6 +67,11 @@ Contacts: petr.vecera@vsb.cz, dusan.pausly.st@vsb.cz
 ## Project
 - Project instructions https://docs.google.com/document/d/1PK_BEYTDyHWG7eSjztHJkYLdYDQxnc_FzmnITog6iC8/edit?usp=sharing
 - Assigment https://classroom.github.com/a/q2moWRZj
+- Deadline 22.4.2026
+- Presentations 15.4.2026 (if ready)
+
+## Test
+- 15.4.2026
 
 ## Subject Evaluation
 - Points can be found [here](https://docs.google.com/spreadsheets/d/1LbSrly7iDfMELicJ0G7jNVOccIlXa2MvVkjnGkNTiUE/edit?usp=sharing)
