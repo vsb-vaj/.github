@@ -59,10 +59,10 @@ Contacts: petr.vecera@vsb.cz, dusan.pausly.st@vsb.cz
   - Deadline Due Apr 14, 2026, 15:55 UTC
  
 - 08 React UI Frameworks
-  - Assignment
+  - Assignment https://classroom.github.com/a/F3wNUdIW
   - 5 points for all the tasks
   - 1 Bonus point
-  - Deadline
+  - Deadline Due Apr 21, 2026, 16:15 UTC
 
 ## Project
 - Project instructions https://docs.google.com/document/d/1PK_BEYTDyHWG7eSjztHJkYLdYDQxnc_FzmnITog6iC8/edit?usp=sharing
