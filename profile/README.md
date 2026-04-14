@@ -80,6 +80,10 @@ Contacts: petr.vecera@vsb.cz, dusan.pausly.st@vsb.cz
 - Mix of theoretical (from the lectures) and pratical knowledge (from the labs)
 - Questions from the lectures + labs. 
 
+#### What to bring:
+- VSB School card
+- Pen 
+
 ## Subject Evaluation
 - Points can be found [here](https://docs.google.com/spreadsheets/d/1LbSrly7iDfMELicJ0G7jNVOccIlXa2MvVkjnGkNTiUE/edit?usp=sharing)
 - You need to hand in the Labs on regular basis. There is ~2 weeks deadline after each lab for submitting it (in case you won't finish on the lab). 
