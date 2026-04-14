@@ -73,6 +73,13 @@ Contacts: petr.vecera@vsb.cz, dusan.pausly.st@vsb.cz
 ## Test
 - 15.4.2026
 
+#### Structure of the test:
+- 25 questions
+- a/b/c/d - just 1 is right
+- 45 minutes (the lenght of lecture)
+- Mix of theoretical (from the lectures) and pratical knowledge (from the labs)
+- Questions from the lectures + labs. 
+
 ## Subject Evaluation
 - Points can be found [here](https://docs.google.com/spreadsheets/d/1LbSrly7iDfMELicJ0G7jNVOccIlXa2MvVkjnGkNTiUE/edit?usp=sharing)
 - You need to hand in the Labs on regular basis. There is ~2 weeks deadline after each lab for submitting it (in case you won't finish on the lab). 
