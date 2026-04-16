@@ -8,7 +8,7 @@ Lectures and Labs on **Wednesday**:
 
 Forum for any Q&A https://github.com/orgs/vsb-vaj/discussions
 
-Contacts: petr.vecera@vsb.cz, dusan.pausly.st@vsb.cz
+Contacts: petr.vecera@vsb.cz, dusan.pausly10@gmail.com
 
 ## Presentations 
   - 00 Intro to the subject - [presentation](https://docs.google.com/presentation/d/1bXqZlBsV21r9Le_UA4FZqeV_oRUAzqbIUn_Tw6Bgyfw/edit?usp=sharing)
